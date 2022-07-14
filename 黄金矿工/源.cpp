@@ -1,4 +1,5 @@
 #include"gold.h"//本地头文件
+#include<graphics.h>
 IMAGE images[IMAGE_MAX];
 struct Mine mine[MINE_NUM];
 struct Role r;
